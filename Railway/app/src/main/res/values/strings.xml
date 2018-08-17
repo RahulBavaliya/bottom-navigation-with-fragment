@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Railway</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_time_table">Time Table</string>
+    <string name="title_canteen">Canteen</string>
+    <string name="title_aminetis">Aminetis</string>
+    <string name="title_link">Link</string>
+    <string name="title_message">Message</string>
+
+</resources>
